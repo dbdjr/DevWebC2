@@ -1,0 +1,49 @@
+#titulo{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size:  45px;
+    word-wrap: break-word;
+    color:black;
+    background: none;
+    resize: none;
+    border: 0px;
+    height: 23px;
+    opacity: 1;
+    position: relative;
+    left: 12px;
+    top: 10px;
+    vertical-align: middle;
+    display: inline-block;
+}
+#ind-1{
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+}
+body{
+    padding-top: 40px;
+    background-color: rgb(187, 50, 50);
+}
+
+.centro {
+    margin: 0 auto;
+    width: 200px;
+    perspective: 900px;
+  }
+  #btn {
+    cursor: hand;
+    background-color:rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    font-weight: 1000;
+    border: none;
+    padding: 1em 6em;
+    margin: 4em auto;
+    display: block;  
+    transition: background .6s ease-in, transform .5s .25s ease-in-out;
+  }
+  #text{
+    font-family:  'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: 15px;
+    color:black;
+  }
